@@ -1,0 +1,7 @@
+# Ignorar archivos específicos
+spotify_dataset.csv:Zone.Identifier
+the_grammy_awards.csv:Zone.Identifier
+DashBoard.pdf:Zone.Identifier
+
+# Ignorar la carpeta "myenv"
+myenv/
