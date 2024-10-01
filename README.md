@@ -128,7 +128,7 @@ http://localhost:8080
     - **Username**: `root`
     - **Password**: The password you set for your MySQL root user.
 6. Test the connection to ensure everything is working.
-7. Once connected, explore the database and start building visualizations based on the table `Spotify_Merged_With_Grammys`.
+7. Once connected, explore the database and start building visualizations based on the table `Spotify_Grammy_Joined`.
 
 # Step 8: Build Visualizations in Looker
 # Create insightful visualizations such as:
